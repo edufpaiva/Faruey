@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: d6e2cd48d5ad64c43823c38bb233343e
+timeCreated: 1461595161
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Buttons_menu_0
+    21300002: Buttons_menu_1
+    21300004: Buttons_menu_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Buttons_menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1507
+        width: 443
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 58.981323}
+        - {x: -44.5, y: 54.981323}
+        - {x: -58.5, y: 39.981323}
+        - {x: -58.5, y: -31.018677}
+        - {x: -42.5, y: -58.018677}
+        - {x: 30.5, y: -58.018677}
+        - {x: 58.5, y: -40.018677}
+        - {x: 58.5, y: 41.981323}
+        - {x: 31.5, y: 58.981323}
+    - name: Buttons_menu_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1494
+        width: 440
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.522797, y: 59.569733}
+        - {x: -57.522797, y: 50.569733}
+        - {x: -57.522797, y: -43.430267}
+        - {x: -33.522797, y: -58.430267}
+        - {x: 58.477203, y: -58.430267}
+        - {x: 58.477203, y: 59.569733}
+    - name: Buttons_menu_2
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1494
+        width: 443
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.979248, y: 59.569733}
+        - {x: -31.020752, y: 59.569733}
+        - {x: -58.020752, y: 34.569733}
+        - {x: -58.020752, y: -22.430267}
+        - {x: -54.020752, y: -40.430267}
+        - {x: -32.020752, y: -58.430267}
+        - {x: 23.979248, y: -58.430267}
+        - {x: 58.979248, y: -43.430267}
+        - {x: 58.979248, y: 27.569733}
+        - {x: 42.979248, y: 55.569733}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
